@@ -1,3 +1,3 @@
 # scss-content
 This is about scss
-Author - Anjali Gupta
+Content related to scss
